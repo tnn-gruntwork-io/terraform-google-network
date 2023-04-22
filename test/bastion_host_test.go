@@ -5,11 +5,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/gcp"
-	"github.com/gruntwork-io/terratest/modules/random"
-	"github.com/gruntwork-io/terratest/modules/ssh"
-	"github.com/gruntwork-io/terratest/modules/terraform"
-	test_structure "github.com/gruntwork-io/terratest/modules/test-structure"
+	"github.com/tnn-gruntwork-io/terratest/modules/gcp"
+	"github.com/tnn-gruntwork-io/terratest/modules/random"
+	"github.com/tnn-gruntwork-io/terratest/modules/ssh"
+	"github.com/tnn-gruntwork-io/terratest/modules/terraform"
+	test_structure "github.com/tnn-gruntwork-io/terratest/modules/test-structure"
 )
 
 func TestBastionHost(t *testing.T) {

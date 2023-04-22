@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/terratest/modules/gcp"
-	"github.com/gruntwork-io/terratest/modules/terraform"
+	"github.com/tnn-gruntwork-io/terratest/modules/gcp"
+	"github.com/tnn-gruntwork-io/terratest/modules/terraform"
 )
 
 const KEY_PROJECT = "project"

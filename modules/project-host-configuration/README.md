@@ -5,11 +5,11 @@ whose networks are "host" networks, able to be shared across multiple service pr
 
 ## How do you use this module?
 
-* See the [root README](https://github.com/gruntwork-io/terraform-google-network/blob/master/README.md) for instructions
+* See the [root README](https://github.com/tnn-gruntwork-io/terraform-google-network/blob/master/README.md) for instructions
 on using Terraform modules.
-* See the [examples](https://github.com/gruntwork-io/terraform-google-network/tree/master/examples) folder for example
+* See the [examples](https://github.com/tnn-gruntwork-io/terraform-google-network/tree/master/examples) folder for example
 usage.
-* See [variables.tf](https://github.com/gruntwork-io/terraform-google-network/blob/master/modules/project-host-configuration/variables.tf)
+* See [variables.tf](https://github.com/tnn-gruntwork-io/terraform-google-network/blob/master/modules/project-host-configuration/variables.tf)
 for all the variables you can set on this module.
 
 ## How is a "host" network different than a normal network?
